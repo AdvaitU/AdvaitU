@@ -15,7 +15,7 @@ And when my code works too well or not at all, I am keenly interested in making 
 - Web Dev with Ract, 3JS, P5.js, etc. 🖥️🕸️
   
 #### I'm currently working on: 
-[TactiScape VR](https://github.com/AdvaitU/tactiscape-vr) - Scape is a tool that lets one sculpt landscapes in VR using their hands as if (hopefully) modelling with real clay. It was created as a part of a research project that attempted to evaluate the hypothesis “Pseudo-Tactility (faking it), following in the footsteps of true tactility (actually touching things), makes a computing system more tangible, intuitive, (and fun) for the user. You can find the research paper [here](https://github.com/AdvaitU/tactiscape-vr/blob/main/AdvaitUkidve-TactiScapeVR-ThesisThesis.pdf)
+[TactiScape VR](https://github.com/AdvaitU/tactiscape-vr) - Scape is a tool that lets one sculpt landscapes in VR using their hands as if modelling with real clay. It was created as a part of a research project that attempted to evaluate the hypothesis “Pseudo-Tactility (faking it), following in the footsteps of true tactility (actually touching things), makes a computing system more tangible, intuitive, (and fun) for the user. You can find the research paper [here](https://github.com/AdvaitU/tactiscape-vr/blob/main/AdvaitUkidve-TactiScapeVR-ThesisThesis.pdf)
 
       
 #### Some of the things I've done over the past year: 
