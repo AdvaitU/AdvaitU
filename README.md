@@ -11,15 +11,15 @@ And when my code works too well or not at all, I am keenly interested in making 
 - Physical Computing with Arduinos, Raspberry Pi, and other fun boards and components 🔌
 - Unity/Unreal Game Development  :goberserk:
 - All kinds of ML work using TensorFlow 🤖🎰
-- - C/C++ for Desktop Applications 💻
+- C/C++ for Desktop Applications 💻
 
 #### I can also kinda do:
 - Web Dev with React, 3JS, P5.js, etc. 🖥️🕸️
-- 3D Modelling, Texturing
-- Shaders
+- 3D Modelling, Texturing :triangular_ruler:
+- Shaders :first_quarter_moon:
 
 ---
-Website: [http://bit.ly/advait-ukidve](http://bit.ly/advait-ukidve)
+Personal Website/Portfolio: [http://bit.ly/advait-ukidve](http://bit.ly/advait-ukidve) :globe_with_meridians:
 
 ---
 #### I'm currently working on: 
