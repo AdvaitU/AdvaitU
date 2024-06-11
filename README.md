@@ -8,13 +8,15 @@ And when my code works too well or not at all, I am keenly interested in making 
 ---
 
 #### I specialise in:
-- C/C++ for Desktop Applications 💻
 - Physical Computing with Arduinos, Raspberry Pi, and other fun boards and components 🔌
 - Unity/Unreal Game Development  :goberserk:
 - All kinds of ML work using TensorFlow 🤖🎰
+- - C/C++ for Desktop Applications 💻
 
 #### I can also kinda do:
-- Web Dev with Ract, 3JS, P5.js, etc. 🖥️🕸️
+- Web Dev with React, 3JS, P5.js, etc. 🖥️🕸️
+- 3D Modelling, Texturing
+- Shaders
 
 ---
 Website: [http://bit.ly/advait-ukidve](http://bit.ly/advait-ukidve)
